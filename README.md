@@ -8,8 +8,6 @@
 * MIDI 형태의 파일의 음악 표기법을 알 수 있는 인터페이스 제공
 * 코드 객체를 만들어 쉽게 MIDI파일 생성가능
 
-![2.PNG](https://github.com/soowoong0329/LSTM-Compose/blob/master/img/2.PNG?raw=true)
-
 ### Training
 
 * 노트(Note)와 코드(Chord) 학습 시킴
